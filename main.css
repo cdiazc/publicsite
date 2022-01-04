@@ -1,0 +1,47 @@
+.center {
+    text-align: center;
+}
+
+.small-padding-bottom {
+    padding-bottom: 1%;
+}
+
+.content {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.underline {
+    text-decoration: underline;
+} 
+
+.header-alt {
+    font-style: oblique;
+    font-weight: 700;
+    font-size: 15px; 
+}
+
+
+.header {
+    font-weight: 800;
+    font-size: 60px; 
+    padding: 2%;
+}
+
+.links {
+    padding: 1%;
+}
+
+.description {
+
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+}
+
+.email {
+    padding: 0.5%;
+    font-size: 12px; 
+    font-style: oblique;
+}
