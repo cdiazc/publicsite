@@ -3,11 +3,12 @@
 }
 
 .small-padding-bottom {
-    padding-bottom: 1%;
+    padding-bottom: 2em;
 }
 
 .content {
     font-family: "Courier New", Courier, monospace;
+    font-size: 1em;
 }
 
 .underline {
@@ -17,18 +18,17 @@
 .header-alt {
     font-style: oblique;
     font-weight: 700;
-    font-size: 15px; 
 }
 
 
 .header {
     font-weight: 800;
-    font-size: 60px; 
+    font-size: 4em; 
     padding: 2%;
 }
 
 .links {
-    padding: 1%;
+    padding: 1.2em;
 }
 
 .description {
@@ -42,6 +42,6 @@
 
 .email {
     padding: 0.5%;
-    font-size: 12px; 
+    font-size: 0.8em; 
     font-style: oblique;
 }
